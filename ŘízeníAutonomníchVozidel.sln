@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ŘízeníAutonomníchVozidel", "ŘízeníAutonomníchVozidel\ŘízeníAutonomníchVozidel.csproj", "{77B58764-1D4C-40B8-A953-43107994A4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B58764-1D4C-40B8-A953-43107994A4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B58764-1D4C-40B8-A953-43107994A4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B58764-1D4C-40B8-A953-43107994A4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B58764-1D4C-40B8-A953-43107994A4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8B7DC7-168D-4CBF-8B19-DDD35E2F218A}
+	EndGlobalSection
+EndGlobal
